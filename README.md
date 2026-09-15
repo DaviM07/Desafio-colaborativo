@@ -22,20 +22,9 @@ A aplicação é uma calculadora simples que realiza as 4 operações matemátic
 
  🛠️ Tecnologias Utilizadas
 
-- Linguagem de Programação (ex: Python, C, Java, JavaScript)
+- Linguagem de Programação (Python)
 - Git & GitHub (Controle de Versão)
 
-
- ⚙️ Como Executar o Projeto
-
-1. Clonar o repositório:
-   git clone https://github.com/seu-usuario/calculadora-git.git
-
-2. Acessar a pasta do projeto:
-   cd calculadora-git
-
-3. Executar o código principal:
-   python main.py
 
 
 Este projeto foi desenvolvido estritamente para fins acadêmicos.
