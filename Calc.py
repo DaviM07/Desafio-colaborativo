@@ -1,0 +1,2 @@
+import funcao
+funcao.menu()
